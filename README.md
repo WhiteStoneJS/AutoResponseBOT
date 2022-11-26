@@ -1,6 +1,9 @@
 # AutoResponseBOT
 An auto response bot for discord py (Requires Mongodb and token)
 
+
+#INSTALLATION GUIDE
+
 1: download files
 
 2: open info.json and fill in info
