@@ -12,6 +12,9 @@ An auto response bot for discord py (Requires Mongodb and token)
 
 
 (Not fully done!)
+
 Needed:
+
 permissions for commands
+
 the response cant be more that 1 word
