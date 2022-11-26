@@ -2,7 +2,7 @@
 An auto response bot for discord py (Requires Mongodb and token)
 
 
-#INSTALLATION GUIDE
+# INSTALLATION GUIDE
 
 1: download files
 
@@ -13,7 +13,7 @@ An auto response bot for discord py (Requires Mongodb and token)
 4: Done!
 
 
-#IMPORTANT
+# IMPORTANT
 
 (Not fully done!)
 
